@@ -1,0 +1,17 @@
+import java.util.Scanner; 
+public class RideAlong { 
+public static void main(string[] args){
+scanner s_scanner = new Scanner(system.in); 
+
+int num = s_scanner.nextInt(); 
+int mun = s_scanner.nextInt(); 
+
+duoble sum = num + mun; 
+
+System.out.printIn("The total sum: "+ sum);
+s_scanner.close(); 
+
+
+}
+
+}
